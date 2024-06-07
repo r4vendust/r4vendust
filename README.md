@@ -35,8 +35,9 @@
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/react-grey.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/next-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white">
 </ul>
 
 There is more but sorry, i got tired 😫
